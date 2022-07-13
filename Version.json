@@ -1,5 +1,5 @@
 {
-	"versionCode": 12,
-	"versionName": "0.2.4",
-	"changelog": "测试更新"
+	"versionCode": 13,
+	"versionName": "1.0.1",
+	"changelog": "v1.0.1 (22/07/13)\n- 增加论坛模块\n- 修复bug"
 }

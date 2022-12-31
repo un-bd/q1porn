@@ -1,5 +1,5 @@
 {
-	"versionCode": 17,
-	"versionName": "1.1.0",
-	"changelog": "  ## v1.1.0 (22/07/31)\n- 增加网格&列表切换功能\n- 增加视频搜索功能(需登陆)\n"
+	"versionCode": 21,
+	"versionName": "1.1.4",
+	"changelog": "  ## v1.1.4 (22/12/31)\n- 试用版无时间限制\n- 增加登陆后无限搜索模式\n"
 }
